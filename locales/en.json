@@ -1,0 +1,205 @@
+{
+  "links": {
+    "about": "About",
+    "education": "Education",
+    "experience": "Experience",
+    "skills": "Skills",
+    "interests": "Interests",
+    "projects": "Projects"
+  },
+  "personalInfo": {
+    "name": "Cường",
+    "lastName": "Bùi Mạnh",
+    "subHeadingText": [
+      "Software Engineer",
+      "Full Stack Developer",
+      "Code enthusiast!"
+    ],
+    "city": "Ha Noi, Viet Nam",
+    "phoneNumber": "+84 - 976-855-822",
+    "email": "manhcuongdtbk@gmail.com",
+    "myDescription": "Passionate web developer, making awesome applications everybody loves!"
+  },
+  "educationDegrees": {
+    "title": "Education 📕",
+    "degrees": [
+      {
+        "collage": "Hanoi University of Science and Technology",
+        "name": "Bachelor Degree",
+        "itemList": [
+          "Electronic and Telecommunication"
+        ],
+        "startEndDate": "September 2014 - December 2018"
+      },
+      {
+        "collage": "TOEIC Certification",
+        "name": "850",
+        "itemList": [
+          "Issued by IIG Viet Nam"
+        ],
+        "startEndDate": "July 2017"
+      },
+      {
+        "collage": "APTIS Certification",
+        "name": "Band C - Highest Band",
+        "itemList": [
+          "Issued by British Council Viet Nam"
+        ],
+        "startEndDate": "July 2017"
+      }
+    ]
+  },
+  "workExperiences": {
+    "title": "Work Experience 🔨",
+    "works": [
+      {
+        "position": "FullStack Developer",
+        "companie": "Tripla, K.K",
+        "responsabilities": [
+          "Responsible for designing, developing and maintaining a large-scale application used in the hospitality industry by multinational corporations.",
+          "Creating and maintaining scalable infrastructure leveraging modern AWS products",
+          "Critical Features Initiative, I take technical decisions about which technologies use in some critical features and how the team will implements.",
+          "Multiple services integration for both customer and company."
+        ],
+        "startEndDate": "July 2020 - Present"
+      },
+      {
+        "position": "Team Leader",
+        "companie": "Sotatek",
+        "responsabilities": [
+          "Receive ideas from customer through an awesome communicator, discuss with the whole team to find the best solution for each huge feature.",
+          "Split features into smaller chunks, together with other leaders then estimate time for splitted chunks for my team.",
+          "Cooperate with other teammates in order to turn customer's ideas into high performace and fully optimized features.",
+          "Choose tech stack some critcal features and provide consultancies for the rest.",
+          "Research then apply new knowledges (related to lots of aspects in general business and computer science) to turn impossible at first sight things into clean, reusable modules spread over multiple places.",
+          "Keep the code base clean, clear, DRY enough to be used not in this project but also in other huge projects.",
+          "Inspire other members to be not only a good developer, but also a happy and productive citizen in general.",
+          "Refactoring old customer's from time to time so it is less pain for other member to work with.",
+          "Setup a large part of AWS servers and services, together with another seniors."
+        ],
+        "startEndDate": "February 2020 - July 2020"
+      },
+      {
+        "position": "Core Service Leader",
+        "companie": "Tomosia",
+        "responsabilities": [
+          "Receive ideas from customer, discuss with customer through a Vietnamese project manager to put the first step in all researching and developing phases.",
+          "Estimate time for all core service researching and developing phases.",
+          "Cooperate with other teammate in order to connect frontend with backend and other related services.",
+          "Choose tech stack for the whole core service.",
+          "Research then apply new knowledges (mainly related to data, logic, mathematic and operate server) to generate highly customizable QR Code.",
+          "Build code base from an existed library then customize, extend, fix and rewrite it accommodating to the high level requirements.",
+          "Optimize codes from time to time, step by step to ensure project's size and real time code running performance.",
+          "Refactoring code base in the end of each phases, keeping it as clean and organized as possible.",
+          "Step by step replacing third party's services by better DIY services.",
+          "Giving advices to customer and team about pricing of running services."
+        ],
+        "startEndDate": "August 2019 - January 2020"
+      },
+      {
+        "position": "Team Leader",
+        "companie": "Ruby Development Vietnam",
+        "responsabilities": [
+          "Receive ideas from customer, discuss with customer through a Japanese project manager with supporting from a communicator to decide whether or not customer's ideas can come to reality.",
+          "Estimate time for all project phases.",
+          "Manage schedule for almost every tasks.",
+          "Design wireframe and mockup.",
+          "Choose tech stack for the whole project.",
+          "Research then apply new techniques and knowledges to accomplish tasks that no one in the company could do.",
+          "Training and supporting new members who joined in the later phases.",
+          "Build code base, directly code the harder parts and keep tracking of easier parts made by other members.",
+          "Optimize codes from time to time, step by step to ensure real time code running performance.",
+          "Ensure clean, easy to understand and maintain code base by refactoring in the end of each phases",
+          "Create tasks to automatically migrate customer's old data and reference new data to to multiple tables in the database.",
+          "Semi deploy to customer's local server.",
+          "Create a project specific working process based on some well-known work processes."
+        ],
+        "startEndDate": "August 2018 - August 2019"
+      },
+      {
+        "position": "Backend Developer",
+        "companie": "Sun-Asterisk Inc.",
+        "responsabilities": [
+          "Design, implement some parts of system's layout based on customers' ideas and instructions.",
+          "Collaborate with senior developers to reduce performance issues.",
+          "Fix all buttons lead to submit action on one page.",
+          "Implement custom model validator for several models.",
+          "Provide regex for lots of situations.",
+          "Internationalization more than 90% of system's English text.",
+          "Implement not too complicated specifications.",
+          "Connect all team members with all types of interest, help new members get along with old members in just a few days."
+        ],
+        "startEndDate": "August 2017 - August 2018"
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills 🎯",
+    "iconsTitle": "Programming Languages & Tools",
+    "devIcons": [
+      "devicon-html5-plain-wordmark",
+      "devicon-handlebars-plain",
+      "devicon-css3-plain-wordmark",
+      "devicon-bootstrap-plain",
+      "devicon-webpack-plain",
+      "devicon-babel-plain",
+      "devicon-javascript-plain",
+      "devicon-typescript-plain",
+      "devicon-jquery-plain-wordmark",
+      "devicon-vuejs-plain",
+      "devicon-nodejs-plain",
+      "devicon-express-original",
+      "devicon-cucumber-plain",
+      "devicon-mysql-plain",
+      "devicon-postgresql-plain",
+      "devicon-mongodb-plain",
+      "devicon-redis-plain",
+      "devicon-rails-plain",
+      "devicon-ruby-plain",
+      "devicon-python-plain",
+      "devicon-git-plain",
+      "devicon-github-original",
+      "devicon-gitlab-plain",
+      "devicon-bitbucket-original-wordmark",
+      "devicon-chrome-plain",
+      "devicon-firefox-plain",
+      "devicon-safari-plain",
+      "devicon-ie10-original",
+      "devicon-nginx-original",
+      "devicon-amazonwebservices-original",
+      "devicon-heroku-original",
+      "devicon-docker-plain",
+      "devicon-linux-plain",
+      "devicon-windows8-original",
+      "devicon-codepen-plain",
+      "devicon-visualstudio-plain",
+      "devicon-trello-plain",
+      "devicon-slack-plain"
+    ],
+    "workflow": "Workflow",
+    "itemList": [
+      "Responsive Design",
+      "Cross Browser Testing & Debugging",
+      "REST API building",
+      "Agile Development & Scrum",
+      "Team working",
+      "Design Patterns"
+    ]
+  },
+  "interests": {
+    "title": "Hobbies 😄",
+    "firstBlock": "Apart from being a web developer, I also enjoy reading books and travelling around the world. I love playing playstation games and singing in my spare time!. 🎵",
+    "secondBlock": "I spend a large amount of my free time exploring the latest technolgy advancements in both the frontend and backend web technology development world and coding in my personal projects! 🙌👨‍💻"
+  },
+  "projects": {
+    "title": "Projects 🦾🧠",
+    "projectsInfo": [
+      {
+        "name": "",
+        "description": "",
+        "image": "",
+        "siteUrl": ""
+      }
+    ]
+  }
+}
